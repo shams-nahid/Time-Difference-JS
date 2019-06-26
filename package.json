@@ -1,14 +1,25 @@
 {
   "name": "time-difference-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "date",
+    "time",
+    "timeDifference",
+    "dateDifference",
+    "difference"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmshamsnahid/Time-Difference-JS"
+  },
+  "author": "Shams Nahid",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.1.4"
