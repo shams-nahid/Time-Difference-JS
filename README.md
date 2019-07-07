@@ -67,6 +67,12 @@ const result = getTimeDiff(startDate, endDate);
 | MMM dd, yyyy hh:mm:ss a z    | May 13, 2014 11:30:00 PM PST |
 | yyyy/MM/dd HH:mm:ss.SSS      |   2014/05/13 16:30:59.786    |
 
+## Test
+To test the module
+```bash
+npm test
+```
+
 ## License
 
 MIT
